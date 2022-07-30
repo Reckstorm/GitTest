@@ -9,5 +9,6 @@ int main()
 	cout << "Commit\n";
 	TestClass x();
 	TestClass y();
+	cout << "123";
 	return 0;
 }
